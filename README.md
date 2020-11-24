@@ -1,2 +1,2 @@
-# progect
+# проект
 first progect
